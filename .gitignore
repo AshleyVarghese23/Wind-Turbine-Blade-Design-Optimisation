@@ -1,0 +1,26 @@
+# Python virtual environments
+WindEnv/
+WindEnv.venv/
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files and logs
+*.log
+*.tmp
+
+# Temporary Code Runner files
+tempCodeRunnerFile.*
